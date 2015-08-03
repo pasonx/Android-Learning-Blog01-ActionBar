@@ -4,4 +4,4 @@
 
 * 其中，[1]是ActionBar的图标，[2]是两个action按钮，[3]是overflow按钮。
 
-![action bar](http://img.blog.csdn.net/20140531141552515?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2lueXU4OTA4MDc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+[action bar](http://img.blog.csdn.net/20140531141552515?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2lueXU4OTA4MDc=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
